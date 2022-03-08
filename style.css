@@ -1,12 +1,20 @@
-*{
-    color:rgb(58, 45, 45);
-}
+
 
 main{
+    margin-top: 20px;;
     margin-left: 15%;
     width:70%;
 }
 img{
     width:100%;
 }
+.titleBox{
+    text-align:center;
+    background-color:rgb(46, 44, 44);
+    color:white;
 
+    padding:20px;
+}
+.imageExplanation{
+    color:rgb(161, 37, 37);
+}
