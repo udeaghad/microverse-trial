@@ -1,4 +1,25 @@
-mainImage{
 
+
+main{
+    margin-top: 20px;;
+    margin-left: 15%;
+    width:70%;
+}
+img{
+    width:100%;
+}
+#titlebox{
+    text-align:center;
+    background-color:rgb(46, 44, 44);
+    color:white;
+    align-content: center;
+    padding:50px;
+}
+#imageExplanation{
+    color:rgb(161, 37, 37);
+    text-align: center;
 }
 
+li {
+    text-align: justify;
+}
